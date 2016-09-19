@@ -1,0 +1,49 @@
+#base {
+	border: 0px solid black;
+	height: 40%;
+	width: 50%;
+	margin: auto;
+	padding: 0px 0px 0px 0px;
+}
+#title{
+	text-align: center;
+}
+#message{
+	text-align: center;
+}
+.test{
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	margin: 0px 0px 0px 0px;
+	display: inline-block;
+	float: left;
+	background-color: white;
+	opacity: 1;
+	 /*ben qe div te shkoj sa me majtas*/
+	
+}
+#option1{
+	margin-left: 100px;
+}
+#option2{
+	margin-left: 100px;
+}
+#option3{
+	margin-left: 100px;
+}
+#change{
+	z-index: 1;
+	width: 7em;
+	height: 3em;
+}
+.pass{
+	background-color: blue;
+	opacity: 1;
+}
+}
+.show{
+	background-color: black;
+	opacity: 0;
+}
+
